@@ -3,6 +3,7 @@ A memory graph data structure
 
 
 How to use it:
+
 g := NewMemGraph()
 	type NodeType struct {
 		name string
