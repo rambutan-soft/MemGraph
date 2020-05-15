@@ -1,8 +1,13 @@
 # MemGraph
 A memory graph data structure
 
+# Features
+-support node type
+-support edge type
+ 
 
-How to use it:
+
+# How to use it:
 
 g := NewMemGraph()
 	type NodeType struct {
