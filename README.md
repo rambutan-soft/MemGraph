@@ -3,6 +3,7 @@ A memory graph data structure
 
 # Features
 -support node type
+
 -support edge type
  
 
